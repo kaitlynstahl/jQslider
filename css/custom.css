@@ -1,0 +1,80 @@
+/* custom.css */
+
+body {
+    margin: 0 auto;
+}
+
+#nav {
+    margin: 0 auto;
+}
+
+#arrows {
+    float: right;
+}
+
+#wrapper {
+    overflow: hidden;
+    width: 1000px;
+    height: 666px;
+}
+
+.button {
+    height: 50px;
+    line-height: 50px;
+    width: 45px;
+    display: inline-block;
+    border: 1px solid black;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.content {
+    margin: 0 auto;
+    /*    border: 1px solid black;*/
+    
+    height: 666px;
+    width: 1000px;
+}
+
+#content1 {
+    display: block;
+}
+
+#content2 {
+    display: none;
+}
+
+#content3 {
+    display: none;
+    margin-left: -36px;
+}
+
+#content4 {
+    display: none;
+}
+
+#content5 {
+    display: none;
+}
+
+h1 {
+    margin: 0 auto;
+    text-align: center;
+    font-family: sans-serif, 'Helvetica';
+    font-size: 60px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+/*
+a:visited {
+    text-decoration: none;
+}
+*/
+
+footer {
+    margin: 0 auto;
+    text-align: center;
+}
